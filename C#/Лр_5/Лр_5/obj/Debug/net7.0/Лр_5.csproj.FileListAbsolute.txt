@@ -1,0 +1,15 @@
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.csproj.AssemblyReference.cache
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.AssemblyInfoInputs.cache
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.AssemblyInfo.cs
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.csproj.CoreCompileInputs.cache
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/bin/Debug/net7.0/Лр_5
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/bin/Debug/net7.0/Лр_5.deps.json
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/bin/Debug/net7.0/Лр_5.runtimeconfig.json
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/bin/Debug/net7.0/Лр_5.dll
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/bin/Debug/net7.0/Лр_5.pdb
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.dll
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/refint/Лр_5.dll
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.pdb
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/Лр_5.genruntimeconfig.cache
+/Users/alex/Downloads/Proga/С#/Лр_5/Лр_5/obj/Debug/net7.0/ref/Лр_5.dll

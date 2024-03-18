@@ -1,0 +1,118 @@
+[
+  {
+    "flight_number": "FL123",
+    "destination": "New York",
+    "departure_time": "12:00",
+    "arrival_time": "15:00",
+    "distance": 5000,
+    "available_seats": 50
+  },
+  {
+    "flight_number": "FL456",
+    "destination": "Los Angeles",
+    "departure_time": "14:00",
+    "arrival_time": "17:00",
+    "distance": 4000,
+    "available_seats": 66
+  },
+  {
+    "flight_number": "FL789",
+    "destination": "Chicago",
+    "departure_time": "16:00",
+    "arrival_time": "19:00",
+    "distance": 3000,
+    "available_seats": 100
+  },
+  {
+    "flight_number": "FL123",
+    "destination": "New York",
+    "departure_time": "12:00",
+    "arrival_time": "15:00",
+    "distance": 5000,
+    "available_seats": 100
+  },
+  {
+    "flight_number": "FL123",
+    "destination": "New York",
+    "departure_time": "12:00",
+    "arrival_time": "15:00",
+    "distance": 5000,
+    "available_seats": 100
+  },
+  {
+    "flight_number": "FL123",
+    "destination": "New York",
+    "departure_time": "12:00",
+    "arrival_time": "15:00",
+    "distance": 5000,
+    "available_seats": 100
+  },
+  {
+    "flight_number": "12",
+    "destination": "23",
+    "departure_time": "23",
+    "arrival_time": "23",
+    "distance": 23.0,
+    "available_seats": 100
+  },
+  {
+    "flight_number": "32",
+    "destination": "342",
+    "departure_time": "3423",
+    "arrival_time": "3432",
+    "distance": 3432.0,
+    "available_seats": 100
+  },
+  {
+    "flight_number": "FL009",
+    "destination": "Moscow",
+    "departure_time": "12:00",
+    "arrival_time": "17:00",
+    "distance": 1200.0,
+    "available_seats": 1000
+  },
+  {
+    "flight_number": "FL001",
+    "destination": "FFFF",
+    "departure_time": "123",
+    "arrival_time": "345",
+    "distance": 1200.0,
+    "available_seats": 23
+  },
+  {
+    "flight_number": "FF",
+    "destination": "ff",
+    "departure_time": "fff",
+    "arrival_time": "ff",
+    "distance": 100.0,
+    "available_seats": 9988,
+    "passengers": [
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff",
+      "ffff"
+    ]
+  },
+  {
+    "flight_number": "Fl123",
+    "destination": "Moscow",
+    "departure_time": "12 00",
+    "arrival_time": "23 00",
+    "distance": 1000.0,
+    "available_seats": 122,
+    "passengers": [
+      {
+        "name": "Gjy",
+        "paid": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/bin/Debug/net7.0/Лр_1
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/bin/Debug/net7.0/Лр_1.deps.json
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/bin/Debug/net7.0/Лр_1.runtimeconfig.json
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/bin/Debug/net7.0/Лр_1.dll
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/bin/Debug/net7.0/Лр_1.pdb
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.csproj.AssemblyReference.cache
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.AssemblyInfoInputs.cache
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.AssemblyInfo.cs
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.csproj.CoreCompileInputs.cache
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.dll
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/refint/Лр_1.dll
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.pdb
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/Лр_1.genruntimeconfig.cache
+/Users/alex/Downloads/Proga/С#/Лр_1/Лр_1/obj/Debug/net7.0/ref/Лр_1.dll
